@@ -1,0 +1,11 @@
+<script>
+let a = +prompt ("Введите число от 1 до 100");
+if (a%2==0){
+    a=a**2
+    alert (a)
+}
+else{
+    a=a/2
+alert (a)
+}
+     </script>
